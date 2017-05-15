@@ -1,0 +1,2 @@
+athspectralscan>=0.2.0
+yanh>=0.2.0
